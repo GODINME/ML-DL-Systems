@@ -11,3 +11,11 @@ Machine Learning or Deep Learning Systems
 - [Hardware for Deep Learning](https://www.youtube.com/playlist?list=PLZU5hLL_713wXlIeer4vZmvzfE_FoCkIP)
 - [Machine Learning Systems](https://pooyanjamshidi.github.io/mls/)
 - [Cuda](https://github.com/cuda-mode/lectures)
+
+
+# Applied Deep Learning
+- [ADL](https://www.youtube.com/@AlexanderPacha/playlists)
+- [T81-558:Applications of Deep Neural Networks](https://sites.wustl.edu/jeffheaton/t81-558/)
+- [Math 450 Optimization Methods in Machine Learning at WUSTL](https://github.com/scaomath/wustl-math450) || [videos](https://www.youtube.com/playlist?list=PL4FDRAX_jWmXIOhpwMlsV3Rl0vJasj144)
+- [DL](https://www.youtube.com/playlist?list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9)
+  
